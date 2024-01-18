@@ -1,6 +1,6 @@
 <div align="center" id="start-of-content">
   <img src="https://libre-tube.github.io/images/gh-banner.png" width="auto" height="auto" alt="LibreTube">
-  
+
 [![GPL-v3](https://libre-tube.github.io/assets/widgets/license-widget.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 </div><div align="center" style="width:100%; display:flex; justify-content:space-between;">
 
@@ -170,7 +170,7 @@ LibreTube aims to protect the privacy of its users. [Our Privacy Policy](/PRIVAC
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
 LibreTube is [Free Software](https://en.wikipedia.org/wiki/Free_software): You can use, study, share and modify it at your will. The app can be redistributed and/or modified under the terms of the
-[GNU General Public License version 3 or later](https://www.gnu.org/licenses/gpl.html) published by the 
+[GNU General Public License version 3 or later](https://www.gnu.org/licenses/gpl.html) published by the
 [Free Software Foundation](https://www.fsf.org/).
 
 <div align="right">
